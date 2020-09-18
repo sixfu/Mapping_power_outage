@@ -1,0 +1,3 @@
+user,is_retweet,tweet,location, state, state_1,predict_lr,predict_nb,predict_rnn,predict_rf,labels
+insigh84,False,my power just went out i hate these outages https t co rhpkpjvnoe,None,,,1,1,1,0.9993906443073806,1
+cometgrill,False,due to a power outage we are closed this evening we will be up and running tomorrow morning see ya then https t co bzjyhbdr,charlotte, nc,,1,0,1,0.9666666666666667,0
